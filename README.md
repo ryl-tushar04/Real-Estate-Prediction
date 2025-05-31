@@ -9,14 +9,13 @@ A machine learning-based solution that leverages regression models to predict re
 1. [Introduction](#introduction)  
 2. [Features](#features)  
 3. [Setup and Installation](#setup-and-installation)  
-4. [Usage](#usage)  
-5. [Dataset](#dataset)  
-6. [Project Workflow](#project-workflow)  
-7. [Results](#results)  
-8. [Future Enhancements](#future-enhancements)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
-11. [Author](#author)  
+4. [Usage](#usage)   
+5. [Project Workflow](#project-workflow)  
+6. [Results](#results)  
+7. [Future Enhancements](#future-enhancements)  
+8. [Contributing](#contributing)  
+9. [License](#license)  
+10. [Author](#author)  
 
 ---
 
@@ -88,13 +87,7 @@ This project focuses on predicting real estate prices using machine learning tec
 4. **Visualize results**  
    `visualize_results.py` shows prediction trends and feature importance.
 
----
 
-## **Dataset**
-
-The dataset used for training contains real estate listings with features like square footage, number of bedrooms, location, and sale prices. You can access the sample dataset in the repository:
-
-🔗 **[Sample Dataset](https://github.com/ryl-tushar04/Real-Estate-Prediction/tree/main/data)**
 
 ---
 
